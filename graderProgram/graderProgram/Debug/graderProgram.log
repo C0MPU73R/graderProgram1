@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Programming\Programs\C++\graderProgram\graderProgram\Source.cpp(295,20): warning C4018:  '<': signed/unsigned mismatch
+  graderProgram.vcxproj -> D:\Programming\Programs\C++\graderProgram\Debug\graderProgram.exe
